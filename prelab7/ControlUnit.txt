@@ -1,0 +1,9 @@
+Enable[1] CLK[1] Reset[1] LoadX[1] CountEnableX[1] LoadY[1] CountEnableY[1] ColorOrNot
+  0     0    0   1        0         1        0           0     
+  0     0    1  1        0         1        0           0     
+  0     1    0    1        0         1        0           0     
+  0     1    1      1        0         1        0           0     
+  1     0    0     1        0         1        0           0     
+  1     0    1     1        0         1        0           0     
+  1     1    0    1        0         1        0           0     
+  1     1    1     1        0         1        0           0     
